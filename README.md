@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Redux Crash Course With React
+
+## About
+
+This is me following Brad Traversy's [youtube video](https://youtu.be/93p3LxR9xfM)
+
+Year 2023
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
